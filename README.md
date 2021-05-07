@@ -53,7 +53,7 @@
 ![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Unbenannt12-0E97D.PNG)
 
 ## [Rainbow](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main-631BC.css)
-![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/2020-05-31-18-56-39-621DA.mp4)
+[Preview Link](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/2020-05-31-18-56-39-621DA.mp4)
 
 ## [BlackPurple - NoAds](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main-F625F.css)
 ![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Unbenannt4-6B193.PNG)
