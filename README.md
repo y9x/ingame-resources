@@ -4,7 +4,7 @@
 
 ## You can get [Custom-CSS](https://karldino.github.io#custom-css), [Scopes and Crosshairs](https://karldino.github.io#scopes-and-crosshairs) for Krunker from here. Some are pretty cool, created by the *finest* Krunker CSS makers and artists on Discord and elsewhere. Hope you would like them.
 
-###### <br><br>*None of the works exhibited are made by me.<br>Credit goes to tae, Word, reizu and others who made these <3*
+###### <br><br>*None of the works exhibited are made by me.<br>Credit goes to tae, Word, reizu, nxxh, Lekks, Level and others who made these <3*
 
 # <br><br>Custom-CSS
 * Right click on the name and click `Copy link address` for the link.
@@ -24,24 +24,132 @@
 ## [39e](https://css.reizu.moe/39e/main_custom.css)
 ![Preview](https://css.reizu.moe/39e/menu.png "39e")
 
-## [OG](https://cdn.discordapp.com/attachments/820182902616358962/820183046422265906/main_custom.css)
-![Preview](https://media.discordapp.net/attachments/826862587920384042/839772413705060372/unknown.png?width=760&height=427 "OG")
+## [OG](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-83F86.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Screenshot_1664-4AE73.png)
 
 ## [Quacky](https://cdn.discordapp.com/attachments/820182902616358962/820185781452144670/main_custom.css)
-![Preview](https://media.discordapp.net/attachments/826862587920384042/839759952762634240/unknown.png?width=760&height=427 "Quacky")
+![Preview](https://media.discordapp.net/attachments/826862587920384042/839759952762634240/unknown.png?width=760&height=427)
 
 ## [StremZ](https://cdn.discordapp.com/attachments/820182902616358962/820186106372030464/main_custom.css)
-![Preview](https://media.discordapp.net/attachments/826862587920384042/839761450259841045/unknown.png?width=760&height=427 "StremZ")
+![Preview](https://media.discordapp.net/attachments/826862587920384042/839761450259841045/unknown.png?width=760&height=427)
 
 ## [FrostyWolf](https://cdn.discordapp.com/attachments/801916729919668300/823273454223622185/main_custom.css)
-![Preview](https://media.discordapp.net/attachments/819530795911217162/839773968567500800/unknown.png?width=760&height=427 "FrostFurry")
+![Preview](https://media.discordapp.net/attachments/819530795911217162/839773968567500800/unknown.png?width=760&height=427)
 
 ## [Verb](https://cdn.discordapp.com/attachments/820182902616358962/824604833600241704/Verb.css)
-![Preview](https://media.discordapp.net/attachments/819530795911217162/839774847924305957/unknown.png?width=760&height=427 "Verb")
+![Preview](https://media.discordapp.net/attachments/819530795911217162/839774847924305957/unknown.png?width=760&height=427)
 
 ## [Dark Theme](https://cdn.discordapp.com/attachments/801916729919668300/817173006462877706/dark_theme_css.css)
 ![Preview](https://media.discordapp.net/attachments/819491772580495373/839871387799257088/72bAf85.png)
 ![Preview](https://images-ext-2.discordapp.net/external/E0I3plEViO-GjOgnBjkMrCHf_t41zG1alKtqzA7lMNc/https/i.imgur.com/UWIlBO3.png?width=759&height=427)
+
+## [GreyBlack v1](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main-BE56E.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-48F3D.png)
+
+## [BlackGrey v2](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main-39D29.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-A8CFC.png)
+
+## [BetterFrosty v1](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main-191C9.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Unbenannt12-0E97D.PNG)
+
+## [Rainbow](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main-631BC.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/2020-05-31-18-56-39-621DA.mp4)
+
+## [BlackPurple - NoAds](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main-F625F.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Unbenannt4-6B193.PNG)
+
+## [PurGreenBlue Market](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/social-09F8D.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Unbenannt-E3285.png)
+
+## [Dark market](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/social-70924.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-2DB59.png)
+
+## [CyanGrey](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main-CB476.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Unbenannt1-19842.PNG)
+
+## [Pynky](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_pynky-A7037.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown1-CB0D3.png)
+
+## [SoothingBlue](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom_4-05F26.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown_2-41AA7.png)
+
+## [Neon Hunger](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-F2C3A.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-F7030.png)
+
+## [CyanAS](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-58494.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Annotation_2020-08-27_000830-85157.png)
+
+## [Cyan Master](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-019F1.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-E61A4.png)
+
+## [Très Minimale](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-CD890.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Krunker_-_Brave_31-08-2020_12_39_36-96DC9.png)
+
+## [Animated Dark Mode](https://gslevel.github.io/css/darkmodeimport.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-BD3A3.png)
+
+## [Neon Star](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-75E4F.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-3FD57.png)
+
+## [killawhale minimal](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-EE451.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Screen_Shot_2020-09-11_at_1.41.22_PM-03314.png)
+
+## [JhonnyWick](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-5DFB5.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/poposo-A5FB8.png)
+
+## [Spike](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/social_custom-7673C.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Screenshot_12-17096.png)
+
+## [Toradora](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/social_custom_2-0962B.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-504AF.png)
+
+## [Koen](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-5FCBA.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Screenshot_2020-09-25_092619-527E0.png)
+
+## [Sonicboy](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-A0A89.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/New_Tab_-_Google_Chrome_29_09_2020_14_36_0-FFE12.png)
+
+## [jcstani](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-BDC16.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/stani_css-D9BFB.png)
+
+## [Neon Market](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/social_custom-F7111.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-F9D6E.png)
+
+## [Aesthetic Hub](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/social_custom-6E342.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown_1-FAB0D.png)
+
+## [Ocherni](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-0EB71.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Screenshot_2020-11-06_at_10.12.16_PM-325EB.png)
+
+## [Reverb](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-D8D85.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Krunker_Hub_-_Brave_11_8_2020_9_01_26_AM-C0800.png)
+
+## [Reverb Hub](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/social_custom-E6478.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Krunker_Hub_-_Brave_11_8_2020_9_00_51_AM-DA5FC.png)
+
+## [Noir](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-114F0.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Screenshot_2020-11-09_at_9.30.43_PM-FCB18.png)
+
+## [Cal Hub](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/social_custom-5CA9F.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Screenshot_42-D1210.png)
+
+## [Lekks Hub](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/social_custom-C5E80.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Screenshot_18-33A8B.png)
+
+## [Purple-Black](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-9FC84.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Screenshot_2020-12-04_at_8.15.49_PM-C5931.png)
+
+## [noobman123](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-4EBE1.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-11009.png)
+
+## [Red-Black](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main_custom-2EF65.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-E3B56.png)
+
+## [Kater-Albatros](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/KaterAlbatros-F5D94.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Screenshot_448-8DD60.png)
+
+## [Level](https://gslevel.github.io/css/levelcss.css)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/unknown-4020F.png)
 
 # <br><br>Scopes and Crosshairs
 * Right click on the image and click `Copy image address` for the link.
