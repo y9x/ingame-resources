@@ -217,5 +217,5 @@
 
 ###### You can now launch [krunker](https://krunker.io) with the custom-css!
 
-###### Open an issue and post your submission
+###### Open an issue and post your submission or join [xyz](https://discord.gg/pqSSW2M) server for more.
 ###### (Updates every week)
