@@ -4,10 +4,11 @@
 
 ## You can get [Custom-CSS](https://karldino.github.io#custom-css), [Scopes and Crosshairs](https://karldino.github.io#scopes-and-crosshairs) for Krunker from here. Some are pretty cool, created by the *finest* Krunker CSS makers and artists on Discord and elsewhere. Hope you would like them.
 
-###### <br><br>*None of the works exhibited are made by me.<br>Credit goes to tae, Word, reizu, nxxh, Lekks, Level and others who made these <3*
+###### <br><br>*None of the works exhibited are made by me.<br>Credit goes to tae, Word, reizu and others who made these <3*
 
 # <br><br>Custom-CSS
 * Right click on the name and click `Copy link address` for the link.
+* [How to use it with the Resource Swapper?]()
 
 ## [E91E4](https://cdn.discordapp.com/attachments/801916729919668300/823275107555213312/main_custom-E91E4.css)
 ![Preview](https://cdn.discordapp.com/attachments/826862588682960997/835820688949379092/unknown-DEC28.png "E91E4")
@@ -53,7 +54,7 @@
 ![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Unbenannt12-0E97D.PNG)
 
 ## [Rainbow](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main-631BC.css)
-[Preview Video](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/2020-05-31-18-56-39-621DA.mp4)
+![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/2020-05-31-18-56-39-621DA.mp4)
 
 ## [BlackPurple - NoAds](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/main-F625F.css)
 ![Preview](https://css-collection.github.io/css%20%5B709873901454229584%5D.html_Files/Unbenannt4-6B193.PNG)
@@ -201,6 +202,20 @@
 ![Image](https://media.discordapp.net/attachments/820195024708829224/820215890993086464/15_3_neon-green.png)
 ![Image](https://media.discordapp.net/attachments/820195024708829224/820215920365404160/dot_5asdca.png)
 ![Image](https://images-ext-2.discordapp.net/external/QnnZh3X68jAkt_dlaDhsUB4B0R5XXhUi1XtxU4Bn7Yo/https/media.discordapp.net/attachments/606800002009923638/635792328577253386/LynXch_v2.png)
+
+# <br>Using Custom-CSS with Resource Swapper for Browser<br>
+1. Download the Krunker-Resource-Swapper [(click me)](https://github.com/Tehchy/Krunker-Resource-Swapper/archive/refs/heads/master.zip) created by [Tehchy](https://github.com/Tehchy/)
+2. Extract the downloaded ZIP file with [WinRAR](https://www.win-rar.com/download.html?&L=0) or [7Zip](https://www.7-zip.org/download.html).
+![Image](https://i.imgur.com/QgHluNT.png)
+3. Open the extracted folder and create a new folder `css`.
+![Image](https://i.imgur.com/vjjZlQW.png)
+4. Choose a css from this page, Right-click on its name and `Save link as...`. Save it with the name `main_custom.css` in the `css` folder you created.
+5. Go to your browser's extensions page and enable `Developer mode` on top-right corner.
+![Image](https://i.imgur.com/WesSXk0.png)
+6. Drop the *folder* `Krunker-Resource-Swapper-master` to the extension page.<br>C'est ici!
+![Image](https://i.imgur.com/M7wjklu.png)
+
+###### You can now launch [krunker](https://krunker.io) with the custom-css!
 
 ###### Open an issue and post your submission
 ###### (Updates every week)
