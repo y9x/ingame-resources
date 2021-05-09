@@ -209,7 +209,7 @@
 ![Image](https://i.imgur.com/QgHluNT.png)
 3. Open the extracted folder and create a new folder `css`.<br>
 ![Image](https://i.imgur.com/vjjZlQW.png)
-4. Choose a css from this page, Right-click on its name and `Save link as...`. Save it with the name `main_custom.css` in the `css` folder you created.
+4. Choose a css from this page, Right-click on its name and `Save link as...`. Save it with the name `main_custom.css` (for in-game) or `social_custom.css` (for Hub) in the `css` folder you created.
 5. Go to your browser's extensions page and enable `Developer mode` on top-right corner.
 ![Image](https://i.imgur.com/WesSXk0.png)
 6. Drop the *folder* `Krunker-Resource-Swapper-master` to the extension page. C'est ici!<br>
