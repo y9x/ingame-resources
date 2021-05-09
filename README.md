@@ -4,7 +4,7 @@
 
 ## You can get [Custom-CSS](https://karldino.github.io#custom-css), [Scopes and Crosshairs](https://karldino.github.io#scopes-and-crosshairs) for Krunker from here. Some are pretty cool, created by the *finest* Krunker CSS makers and artists on Discord and elsewhere. Hope you would like them.
 
-###### <br><br>*None of the works exhibited are made by me.<br>Credit goes to tae, Word, reizu and others who made these <3*
+###### <br><br>*None of the works exhibited are made by me.<br>Credits - tate, Lekks, reizu, Level and others from xyz and elsewhere who made these <3*
 
 # <br><br>Custom-CSS
 * Right click on the name and click `Copy link address` for the link.
