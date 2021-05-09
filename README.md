@@ -8,7 +8,7 @@
 
 # <br><br>Custom-CSS
 * Right click on the name and click `Copy link address` for the link.
-* [How to use it with the Resource Swapper?]()
+* [How to use it with the Resource Swapper?](https://karldino.github.io#using-custom-css-with-resource-swapper-for-browser)
 
 ## [E91E4](https://cdn.discordapp.com/attachments/801916729919668300/823275107555213312/main_custom-E91E4.css)
 ![Preview](https://cdn.discordapp.com/attachments/826862588682960997/835820688949379092/unknown-DEC28.png "E91E4")
