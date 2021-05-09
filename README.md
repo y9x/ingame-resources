@@ -203,7 +203,7 @@
 ![Image](https://media.discordapp.net/attachments/820195024708829224/820215920365404160/dot_5asdca.png)
 ![Image](https://images-ext-2.discordapp.net/external/QnnZh3X68jAkt_dlaDhsUB4B0R5XXhUi1XtxU4Bn7Yo/https/media.discordapp.net/attachments/606800002009923638/635792328577253386/LynXch_v2.png)
 
-# <br>Using Custom-CSS with Resource Swapper for Browser<br>
+# <br><br>Using Custom-CSS with Resource Swapper for Browser<br>
 1. Download the Krunker-Resource-Swapper [(click me)](https://github.com/Tehchy/Krunker-Resource-Swapper/archive/refs/heads/master.zip) created by [Tehchy](https://github.com/Tehchy/)
 2. Extract the downloaded ZIP file with [WinRAR](https://www.win-rar.com/download.html?&L=0) or [7Zip](https://www.7-zip.org/download.html).
 ![Image](https://i.imgur.com/QgHluNT.png)
