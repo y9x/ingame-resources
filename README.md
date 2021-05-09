@@ -207,12 +207,12 @@
 1. Download the Krunker-Resource-Swapper [(click me)](https://github.com/Tehchy/Krunker-Resource-Swapper/archive/refs/heads/master.zip) created by [Tehchy](https://github.com/Tehchy/)
 2. Extract the downloaded ZIP file with [WinRAR](https://www.win-rar.com/download.html?&L=0) or [7Zip](https://www.7-zip.org/download.html).
 ![Image](https://i.imgur.com/QgHluNT.png)
-3. Open the extracted folder and create a new folder `css`.
+3. Open the extracted folder and create a new folder `css`.<br>
 ![Image](https://i.imgur.com/vjjZlQW.png)
 4. Choose a css from this page, Right-click on its name and `Save link as...`. Save it with the name `main_custom.css` in the `css` folder you created.
 5. Go to your browser's extensions page and enable `Developer mode` on top-right corner.
 ![Image](https://i.imgur.com/WesSXk0.png)
-6. Drop the *folder* `Krunker-Resource-Swapper-master` to the extension page.<br>C'est ici!
+6. Drop the *folder* `Krunker-Resource-Swapper-master` to the extension page. C'est ici!<br>
 ![Image](https://i.imgur.com/M7wjklu.png)
 
 ###### You can now launch [krunker](https://krunker.io) with the custom-css!
