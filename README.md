@@ -218,7 +218,7 @@
 ![Image](https://media.discordapp.net/attachments/820195024708829224/820215920365404160/dot_5asdca.png)
 ![Image](https://images-ext-2.discordapp.net/external/QnnZh3X68jAkt_dlaDhsUB4B0R5XXhUi1XtxU4Bn7Yo/https/media.discordapp.net/attachments/606800002009923638/635792328577253386/LynXch_v2.png)
 
-# <br><br>Using Custom-CSS with Resource Swapper for Browser<br>
+# <br><br>Using Custom-CSS in Browser<br>
 Download Python (3.8+) from [here](https://python.org/downloads)
 1. Download the Python CSS-Swapper `main.py` from [here](https://github.com/xpluna/css-swapper)
 2. Run `main.py`
