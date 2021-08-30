@@ -220,7 +220,7 @@
 
 # <br><br>Using Custom-CSS with Resource Swapper for Browser<br>
 Download Python (3.8+) from [here](https://python.org/downloads)
-1. Download the Python CSS-Swapper *main.py* from [here](https://github.com/xpluna/css-swapper)
+1. Download the Python CSS-Swapper `main.py` from [here](https://github.com/xpluna/css-swapper)
 2. Run `main.py`
 3. Follow the steps in the terminal.
 
