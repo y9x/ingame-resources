@@ -224,10 +224,8 @@ Download Python (3.8+) from [here](https://python.org/downloads)
 2. Run `main.py`
 3. Follow the steps in the terminal.
 
-Contact xpbliss#5178 for assistance or join [this server](https://skidlamer.github.io/wp)
+Contact xpbliss#5178 on Discord for assistance or join [this server](https://skidlamer.github.io/wp)
 
-###### You can now launch [krunker](https://krunker.io) with the custom-css!
-
-###### Open an issue and post your submission
-###### Join [xyz](https://discord.gg/pqSSW2M) server for more.
-###### (Updates every week if submissions posted)
+##### Open an issue and post your submission
+##### Join [xyz](https://discord.gg/pqSSW2M) server for more.
+##### (Updates every week if submissions posted)
