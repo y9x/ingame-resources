@@ -2,13 +2,13 @@
 
 # Hi! Thanks for visiting 😳<br>
 
-## You can get [Custom-CSS](https://karldino.github.io#custom-css), [Scopes and Crosshairs](https://karldino.github.io#scopes-and-crosshairs) for Krunker from here. Some are pretty cool, created by the *finest* Krunker CSS makers and artists on Discord and elsewhere. Hope you would like them.
+## You can get [Custom-CSS](https://gg-resources.github.io#custom-css), [Scopes and Crosshairs](https://gg-resources.github.io#scopes-and-crosshairs) for Krunker from here. Some are pretty cool, created by the Krunker CSS makers and artists on Discord and elsewhere. Hope you would like them.
 
-###### <br><br>*None of the works exhibited are made by me.<br>Credits - tate, Lekks, reizu, Level and others from [xyz](https://discord.com/invite/pqSSW2M) and elsewhere who made these <3*
+###### <br><br>*None of the works exhibited are made by me.<br>Credits - tate, Lekks, reizu, Level and others from [xyz](https://discord.com/invite/pqSSW2M) and elsewhere who made these*
 
 # <br><br>Custom-CSS
 * Right click on the name and click `Copy link address` for the link.
-* [How to use it with the Resource Swapper?](https://karldino.github.io#using-custom-css-with-resource-swapper-for-browser)
+* [How to use it with the Resource Swapper?](https://gg-resources.github.io#using-custom-css-with-resource-swapper-for-browser)
 
 ## [E91E4](https://cdn.discordapp.com/attachments/801916729919668300/823275107555213312/main_custom-E91E4.css)
 ![Preview](https://cdn.discordapp.com/attachments/826862588682960997/835820688949379092/unknown-DEC28.png "E91E4")
@@ -219,18 +219,15 @@
 ![Image](https://images-ext-2.discordapp.net/external/QnnZh3X68jAkt_dlaDhsUB4B0R5XXhUi1XtxU4Bn7Yo/https/media.discordapp.net/attachments/606800002009923638/635792328577253386/LynXch_v2.png)
 
 # <br><br>Using Custom-CSS with Resource Swapper for Browser<br>
-1. Download the Krunker-Resource-Swapper [(click me)](https://github.com/Tehchy/Krunker-Resource-Swapper/archive/refs/heads/master.zip) created by [Tehchy](https://github.com/Tehchy/)
-2. Extract the downloaded ZIP file with [WinRAR](https://www.win-rar.com/download.html?&L=0) or [7Zip](https://www.7-zip.org/download.html).
-![Image](https://i.imgur.com/QgHluNT.png)
-3. Open the extracted folder and create a new folder `css`.<br>
-![Image](https://i.imgur.com/vjjZlQW.png)
-4. Choose a css from this page, Right-click on its name and `Save link as...`. Save it with the name `main_custom.css` (for in-game) or `social_custom.css` (for Hub) in the `css` folder you created.
-5. Go to your browser's extensions page and enable `Developer mode` on top-right corner.
-![Image](https://i.imgur.com/WesSXk0.png)
-6. Drop the *folder* `Krunker-Resource-Swapper-master` to the extension page. C'est ici!<br>
-![Image](https://i.imgur.com/M7wjklu.png)
+Download Python (3.8+) from [here](https://python.org/downloads)
+1. Download the Python CSS-Swapper *main.py* from [here](https://github.com/xpluna/css-swapper)
+2. Run `main.py`
+3. Follow the steps in the terminal.
+
+Contact xpbliss#5178 for assistance or join [this server](https://skidlamer.github.io/wp)
 
 ###### You can now launch [krunker](https://krunker.io) with the custom-css!
 
-###### Open an issue and post your submission or join [xyz](https://discord.gg/pqSSW2M) server for more.
-###### (Updates every week)
+###### Open an issue and post your submission
+###### Join [xyz](https://discord.gg/pqSSW2M) server for more.
+###### (Updates every week if submissions posted)
