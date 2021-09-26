@@ -4,9 +4,9 @@
 
 ## You can get [Custom-CSS](https://gg-resources.github.io#custom-css), [Scopes and Crosshairs](https://gg-resources.github.io#scopes-and-crosshairs) for Krunker from here. Some are pretty cool, created by the Krunker CSS makers and artists on Discord and elsewhere. Hope you would like them.
 
-###### <br><br>*None of the works exhibited are made by me.<br>Credits - tate, Lekks, reizu, Level and others from [xyz](https://discord.com/invite/pqSSW2M) and elsewhere who made these*
+##### <br><br>*None of the works exhibited are made by me.<br>Credits - [xyz](https://discord.com/invite/pqSSW2M) and elsewhere who made these*
 
-# <br><br>Custom-CSS
+# <br>Custom-CSS
 * Right click on the name and click `Copy link address` for the link.
 * [How to use it with the Resource Swapper?](https://gg-resources.github.io/#using-custom-css-in-browser)
 
