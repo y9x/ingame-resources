@@ -1,6 +1,6 @@
 # Resources<br>
 
-# Hi! Thanks for visiting 😳<br>
+# Hi! Thanks for visiting<br>
 
 ## You can get [Custom-CSS](https://gg-resources.github.io#custom-css), [Scopes and Crosshairs](https://gg-resources.github.io#scopes-and-crosshairs) for Krunker from here. Some are pretty cool, created by the Krunker CSS makers and artists on Discord and elsewhere. Hope you would like them.
 
